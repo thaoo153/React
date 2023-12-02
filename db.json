@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "sanr phaarm tesst",
+      "price": "111111111",
+      "id": 7
+    },
+    {
+      "name": "Sản phẩm update 123131",
+      "price": "200",
+      "id": 8
+    },
+    {
+      "name": "Aaaaaaa",
+      "id": 9
+    },
+    {
+      "name": "dâu",
+      "price": 123131,
+      "id": 12
+    },
+    {
+      "name": "12344555",
+      "price": 1000000,
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$48vdQGSAOIh2txZFKeRDaOW2tVxBwSO/IaTRUk8h.y15KS8ohlUoa",
+      "id": 1
+    },
+    {
+      "email": "member@gmail.com",
+      "password": "$2a$10$k0HwN92zhkLUrS8pZ.L0VOGC0Kz/hlmKhADRZBRJcAUo434sVvwpe",
+      "id": 2
+    }
+  ]
+}
