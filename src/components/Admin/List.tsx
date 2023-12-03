@@ -1,8 +1,8 @@
 import { useProductMutation } from '@/hooks/useProductMutation'
 import { useProductQuery } from '@/hooks/useProductQuery'
-import { DataTable } from './DataTable'
-import { getColumns } from './Product/Column'
-import { useToast } from './ui/use-toast'
+import { DataTable } from '../DataTable'
+import { getColumns } from '../Product/Column'
+import { useToast } from '../ui/use-toast'
 
 const List = () => {
     const { toast } = useToast()
